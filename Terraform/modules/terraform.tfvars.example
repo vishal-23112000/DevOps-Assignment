@@ -1,0 +1,4 @@
+aws_region = "us-east-1"
+public_subnet_id = "subnet-0example"
+private_subnet_ids = ["subnet-0private1", "subnet-0private2"]
+vpc_security_group_ids = ["sg-0123456789abcdef0"]
